@@ -6,9 +6,8 @@
 <p>
   <h4 align="center"><b>"Talk is cheap, show me the code."</b></h4>
 </p>
-![Visitor Count](https://profile-counter.glitch.me/nihadenes/count.svg)
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/nihadenes" />
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/nihadenes/count.sv" />
 </p>
 <p align="center">
 <br>
