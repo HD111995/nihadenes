@@ -6,7 +6,7 @@
 <p>
   <h4 align="center"><b>"Talk is cheap, show me the code."</b></h4>
 </p>
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.lunizz)](#)
+![Visitor Count](https://profile-counter.glitch.me/nihadenes/count.svg)
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/nihadenes" />
 </p>
