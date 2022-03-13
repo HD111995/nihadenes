@@ -6,11 +6,10 @@
 <p>
   <h4 align="center"><b>"Talk is cheap, show me the code."</b></h4>
 </p>
-
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.lunizz)](#)
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/nihadenes" />
 </p>
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/nihad-enes-%C5%9Fen-74aa32231/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
