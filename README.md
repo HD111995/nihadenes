@@ -9,6 +9,7 @@
 
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/nihadenes" />
+    [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.lunizz)](#)
 </p>
 <p align="center">
 <br>
