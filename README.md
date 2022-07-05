@@ -71,4 +71,4 @@
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 [twitter]: https://twitter.com/NihadSen
-[linkedin]: https://www.linkedin.com/in/nihad-enes-%C5%9Fen-74aa32231/
+[linkedin]: https://www.linkedin.com/in/nihad-enes-%C5%9Fen-166651211/
