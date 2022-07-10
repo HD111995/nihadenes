@@ -1,14 +1,20 @@
-<script>
-
-
-</script>
-
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>Hello there, I'm Nihat 👋</b></h1>
 </p>
 
-<button name="button" type="button" class="btn btn-block js-profile-editable-edit-button" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:91975592,&quot;target&quot;:&quot;INLINE_EDIT_BUTTON&quot;,&quot;user_id&quot;:91975592,&quot;originating_url&quot;:&quot;https://github.com/nihadenes?tab=repositories&quot;}}" data-hydro-click-hmac="8a5a6d70db2e5ed294a31e3d3a373c71c4a3157522d8b0e27d9058cdd31e3850">Edit profile</button>
+<p>
+  <a href="https://www.google.com.tr" target="_blank">
+    Click Here!!
+  </a>
+ </p>
+ 
+ <p>
+  <button id="close-image" onclick="document.getElementsByClassName('btn btn-block').click()">
+    <img src="https://t3.ftcdn.net/jpg/03/58/75/98/360_F_358759817_UAKFoLK9I2JXbFPppgAidOxOlm1jO2Ci.jpg">
+  </button>
+ </p>
+<p>
 
 <p>
   <h4 align="center"><b>"Talk is cheap, show me the code."</b></h4>
