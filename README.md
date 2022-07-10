@@ -10,7 +10,7 @@
  </p>
  
  <p>
-  <button id="close-image" onclick="document.getElementsByClassName('btn btn-block').click()">
+  <button id="close-image" onclick="document.getElementsByClassName('btn btn-block')[0].click()">
     <img src="https://t3.ftcdn.net/jpg/03/58/75/98/360_F_358759817_UAKFoLK9I2JXbFPppgAidOxOlm1jO2Ci.jpg">
   </button>
  </p>
