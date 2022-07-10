@@ -2,8 +2,6 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Nihat 👋</b></h1>
 </p>
-<a class="btn btn-block" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/nihadenes&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c467a12ace501c36ca096649e3921a081963fc03d71e26325c2323803992dff9" href="/login?return_to=https%3A%2F%2Fgithub.com%2Fnihadenes">Follow</a>
-
 
 <p>
   <h4 align="center"><b>"Talk is cheap, show me the code."</b></h4>
