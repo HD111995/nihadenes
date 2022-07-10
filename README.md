@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Talk is cheap, show me the code."</b></h4>
+  <h4 align="center"><b>Talking is priceless, show me your code.</b></h4>
 </p>
 <p align="center">
     <img align="center" alt="visitors" src="https://profile-counter.glitch.me/nihadenes/count.svg" />
