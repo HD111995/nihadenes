@@ -4,19 +4,6 @@
 </p>
 
 <p>
-  <a href="https://www.google.com.tr" target="_blank">
-    Click Here!!
-  </a>
- </p>
- 
- <p>
-  <button id="close-image" onclick="document.getElementsByClassName('btn btn-block')[0].click()">
-    <img src="https://t3.ftcdn.net/jpg/03/58/75/98/360_F_358759817_UAKFoLK9I2JXbFPppgAidOxOlm1jO2Ci.jpg">
-  </button>
- </p>
-<p>
-
-<p>
   <h4 align="center"><b>"Talk is cheap, show me the code."</b></h4>
 </p>
 <p align="center">
